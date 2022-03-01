@@ -21,6 +21,8 @@
   ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Vagrant](https://img.shields.io/badge/-Vagrant-333333?style=flat&logo=vagrant&logoColor=117AF7)
+  ![Ansible](https://img.shields.io/badge/-Ansible-333333?style=flat&logo=ansible)
 
 **Ferramentas de Desenvolvimento**
   
