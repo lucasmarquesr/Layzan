@@ -2,7 +2,7 @@
 
 
 - 💼 &nbsp; Trabalhando como **Analista de Sistemas**
-- 🌱 &nbsp; Aprendendo mais sobre **Linux**.
+- 🌱 &nbsp; Aprendendo mais sobre **DevOps**.
 
 ## 🚀 Minhas Skills
 
