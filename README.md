@@ -1,8 +1,8 @@
-## Oi, eu sou a Layzan
+## Oi, eu sou a Lucas
 
 
 - 💼 &nbsp; Trabalhando como **Analista de Sistemas**
-- 🌱 &nbsp; Aprendendo mais sobre **DevOps**.
+- 🌱 &nbsp; Aprendendo mais sobre **Security/Redes**.
 
 ## 🚀 Minhas Skills
 
